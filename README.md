@@ -246,6 +246,7 @@ MIT License - Do whatever you want. We're not responsible for any code reviews, 
 
 ## Acknowledgments
 
+- [My Inspiration](https://www.reddit.com/r/ProgrammerHumor/comments/1qvxfvb/confidentialinformation/)
 - Samuel Morse, for the original idea
 - Whoever decided variable names should be *"descriptive"*
 - Coffee
